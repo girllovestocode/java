@@ -1,0 +1,20 @@
+CO 23
+R 18
+k	k	k	k	k	k	p	k	k	k	k	k	k	k	k	k	p	k	k	k	k	k	k
+k	k	k	k	k	p	k	p	k	k	k	k	k	k	k	p	k	p	k	k	k	k	k
+k	k	k	k	p	k	p	k	p	k	k	k	k	k	p	k	p	k	p	k	k	k	k
+k	k	k	p	k	p	k	p	k	p	k	k	k	p	k	p	k	p	k	p	k	k	k
+k	k	k	k	p	k	p	k	p	k	p	k	p	k	p	k	p	k	p	k	k	k	k
+k	k	k	p	k	p	k	p	k	p	k	p	k	p	k	p	k	p	k	p	k	k	k
+k	k	k	k	p	k	p	k	p	k	p	k	p	k	p	k	p	k	p	k	k	k	k
+k	k	k	p	k	p	k	p	k	p	k	p	k	p	k	p	k	p	k	p	k	k	k
+k	k	k	k	p	k	p	k	p	k	p	k	p	k	p	k	p	k	p	k	k	k	k
+k	k	k	p	k	p	k	p	k	p	k	p	k	p	k	p	k	p	k	p	k	k	k
+k	k	k	k	p	k	p	k	p	k	p	k	p	k	p	k	p	k	p	k	k	k	k
+k	k	k	k	k	p	k	p	k	p	k	p	k	p	k	p	k	p	k	k	k	k	k
+k	k	k	k	k	k	p	k	p	k	p	k	p	k	p	k	p	k	k	k	k	k	k
+k	k	k	k	k	k	k	p	k	p	k	p	k	p	k	p	k	k	k	k	k	k	k
+k	k	k	k	k	k	k	k	p	k	p	k	p	k	p	k	k	k	k	k	k	k	k
+k	k	k	k	k	k	k	k	k	p	k	p	k	p	k	k	k	k	k	k	k	k	k
+k	k	k	k	k	k	k	k	k	k	p	k	p	k	k	k	k	k	k	k	k	k	k
+k	k	k	k	k	k	k	k	k	k	k	p	k	k	k	k	k	k	k	k	k	k	k
